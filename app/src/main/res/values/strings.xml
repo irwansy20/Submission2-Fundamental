@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Github User</string>
+
+    <string name="user">ID</string>
+    <string name="ikut">Follow</string>
+    <string name="ikuti">Following</string>
+    <string name="nama">Nama</string>
+    <string name="lok">Location</string>
+    <string name="comp">Company</string>
+    <string name="text_rep">Repository</string>
+    <string name="text_ikut">Pengikut</string>
+    <string name="text_ikuti">Mengikuti</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Find Username</string>
+
+    <string name="data_kosong">-</string>
+</resources>
